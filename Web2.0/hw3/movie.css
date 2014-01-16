@@ -1,0 +1,107 @@
+﻿/*
+学号:10389291
+班级：10嵌软
+姓名：阮明康
+课程： Web2.0程序设计
+*/
+body{
+	background-image:url(http://222.200.185.14/public/hw2/background.png);
+	font-size:8pt;
+	font-family:Verdana, Tahoma, sans-serif;
+	margin:0px;
+	padding:0px;
+	}
+.banner{
+	text-align:center;
+	top:0px;
+	background-image:url(http://222.200.185.14/public/hw2/bannerbackground.png);
+	background-repeat:repeat-x;}
+h1.heading{
+	text-align:center;
+	font-size:24pt;
+	font-weight:bold;
+	font-family:Tahoma, Verdana, sans-serif;}
+.content_area{
+	width:800px;
+	margin:0 auto;
+	border:solid 4px #999999;
+	clear:both;
+	}
+	
+.left-central{
+	width:550px;
+	margin-left:0;
+	position:relative;
+	float:left;
+	}
+.left-central img{
+	margin-right:5px;
+	float:left;
+	}
+.left-central-top{
+	background-image:url(http://222.200.185.14/public/hw2/rottenbackground.png);
+	background-repeat:repeat-x;
+	}
+.rating{
+	font-size:48pt;
+	font-weight:bold;
+	color:#FF0000;
+
+	}
+.total{
+	font-size:8pt;
+	color:#FFFFFF;
+	position:relative;
+	top:-20px;
+	left:200px;
+	}
+.left{
+	margin-left:0;
+	margin-right:0;
+	padding:0;
+	float:left;
+	width:47%;}
+.right{
+	margin-right:0;
+	width:47%;
+	position:relative;
+	float:right;}
+.content_area q{
+	
+	}
+.content_area .comment{
+	border: #999999 2px solid;
+	font-weight:bold;
+	font-size:8pt;
+	background-color:#e1d697;
+	padding:8px;
+
+	}
+.content_area .comment img{
+	
+	}
+.name{
+	}
+.publication{
+	font-style:italic;
+		margin-bottom:5em;}
+
+.right_overview{
+	width:250px;
+	background-color:#A2b964;
+	font-family:Arial, sans-serif;
+	float:right;
+	}
+dl,dt{
+	font-weight:bold;
+	margin:1em;
+	}
+dd{
+	left:10px;
+	font-weight:normal}
+.bar{
+	background-color:#A2B964;
+	padding:5px;
+	text-align:center;
+	clear:both;
+	}
