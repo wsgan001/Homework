@@ -1,0 +1,46 @@
+/*
+学号:10389291
+班级：10嵌软
+姓名：阮明康
+课程： Web2.0程序设计
+*/
+body {
+color: #404040;
+font-family: Georgia, Garamond, serif;
+text-align: left;
+font-size: 11pt;
+background-image:url(http://222.200.185.14/public/hw1/silverware.jpg);
+}
+h1{
+	color:#a4a400;
+	background-color:#f0f0f0;
+	font-family:"Century Gothic", Futura,Verdana, sans-serif;
+	text-decoration:underline;
+	font-size:22pt;
+	font-weight:bold;
+	text-align:center;
+	letter-spacing:0.2em;
+	}
+
+h2{
+	color:#a4a400;
+	background-color:#f0f0f0;
+	font-family:"Century Gothic", Futura,Verdana, sans-serif;
+	text-decoration:underline;
+	font-size:18pt;
+	font-weight:normal;
+	text-align:left;
+	letter-spacing:0.2em;
+	}
+
+.main li{
+	list-style-type:none;}
+.other ul li{
+	list-style-image:url(http://222.200.185.14/public/hw1/pie_icon.gif);}
+.other p{
+	background-color:#FFFF99;
+	font-style:italic;
+	}
+a img{
+	border:0;width:88px;height:31px;
+	}
