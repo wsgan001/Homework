@@ -15,3 +15,25 @@
 研究生阶段现代数据库系统概论课程小作业，实现论文：A08. Finding Pareto Optimal Groups_Group-based Skyline
 实现的效果并不比原作者的差，但是参数k上了3之后就十分的慢。我觉得以后数据库这种项目还是拿C++来写比较顺手。
 
+## IMM
+研究生阶段现代数据库系统概论课程小作业，实现论文：Influence Maximization in Near-Linear Time A Martingale Approach
+C++实现，效果较好。
+
+## DGIM 算法
+算法分析与设计课程作业：大数据流数据和统计，估计最近K个数据流的总和，误差不超过50%
+
+## sort
+算法分析与设计课程作业，实现常用的排序算法，并比较其运行时间
+
+## bitmap
+寻找输入的一串数中第一个缺失的数字。由于数据无序并且数据量十分的大，因此采用Bitmap的方式来记录每一个数字是否出现。
+
+## ClosePair
+寻找二维平面中最近的两个点并标记出来，带图形界面。Java
+
+## Fibonacci
+实现自底向上采用矩阵的方式计算斐波那契数列。
+
+*by 阮明康*
+
+
