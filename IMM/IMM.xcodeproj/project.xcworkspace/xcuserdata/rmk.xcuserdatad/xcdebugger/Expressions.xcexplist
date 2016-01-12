@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "Graph::generateRRSet(Node const&amp;):Graph.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Graph::read(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt;, Model):Graph.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Graph::read(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt;):Graph.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "IMM::Sampling(Graph&amp;, double&amp;, double&amp;, double&amp;):IMM.cpp">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
